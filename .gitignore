@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+recommender_env/
 
 # Spyder project settings
 .spyderproject
@@ -139,7 +140,7 @@ configs/secrets.yaml
 
 # add your env folder here if its there
 data/*
-artifacts/*
+#artifacts/*
 
 
 
